@@ -1,0 +1,9 @@
+Error: name 'gsme' is not defined 	 Time: 2023-12-07 20:24:47.731534 
+Error: name 'gme' is not defined <class 'NameError'>	 Time: 2023-12-07 21:03:12.132522 
+Error: name 'gme' is not defined <class 'NameError'>	 Time: 2023-12-07 21:03:24.763495 
+Error: name 'gzme' is not defined <class 'NameError'>	 Time: 2023-12-07 21:04:11.079758 
+Error: name 'gzme' is not defined <class 'NameError'>	 Time: 2023-12-07 21:05:30.634898 
+Error Message: name 'gzme' is not defined 	 Error Type: <class 'NameError'>	 Time: 2023-12-07 21:06:44.851941 
+Error Message: name 'gzme' is not defined 	 Error Type: <class 'NameError'>	 Time: 2023-12-07 21:06:58.752189 
+Error Message: name 'gzme' is not defined 	 Error Type: <class 'NameError'>	 Time: 2023-12-07 21:07:02.171002 
+Error Message: invalid command name ".!canvas" 	 Error Type: <class '_tkinter.TclError'>	 Time: 2023-12-07 21:56:48.855559 

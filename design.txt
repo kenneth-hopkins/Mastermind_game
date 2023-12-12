@@ -1,0 +1,28 @@
+"""
+Kenneth Hopkins
+Design.txt
+
+My implementation of Mastermind has 4 main classes. The Game class, Board class
+Button class and Marble class. The game class Manages the game of Mastermind.
+it initializes the variables, handles clicks and  user interactions,
+and stores all the game data as the round progresses. The game class
+keeps track of the round, user guess, secret code, buttons, pegs and marbles.
+
+The board class is used for the scoreboard, game board and leaderboard.
+The board class divides each board into a grid based on the number of
+rows and columns. The x,y coordinate of each cell in this invisible grid
+is stored in the class and used for coordinates to draw the board,
+place marbles, pegs, buttons etc.
+
+The button class stores the dimensions of the buttons and can tell when it's been clicked.
+if the button is clicked it calls a particular method in the game class. For example
+if the check button is clicked it calls game.update_peg_colors() and game.check_win_condition().
+The majority of the mastermind game is run through these classes.
+
+For testing I tested all of the drawing functions and pressed all of the
+clickable buttons to make sure they were behaving as expected. I tested the user's guess
+and made sure the game recognized the number of correct colors in correct position,
+correct colors in wrong position etc. and that the peg colors were reflective of that.
+I tested the function that writes to the leaderboard file by creating a leaderboard file with
+more than 10 high scores and making sure only the top 10 scores were kept every time the game was run.
+"""
