@@ -1,5 +1,5 @@
 # Mastermind Game
-This project is a digital implementation of the game "Mastermind". You can find the rules of the game in the following link: https://webgamesonline.com/mastermind/rules.php
+This project is a digital implementation of the game "Mastermind".  You can find the rules of the game in the following link: https://webgamesonline.com/mastermind/rules.php
 
 ## Features
 - Graphical interface using Turtle for an interactive gameplay experience.
